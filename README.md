@@ -1,7 +1,7 @@
 #  ̶E̶̶m̶̶m̶̶a̶ ̶f̶̶r̶̶o̶̶s̶̶t̶ ᡣ𐭩 
 <img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=32cd32" alt="views count">
 
-<p align="center"> $${\color{#8695d1}"𝑫𝒊𝒂𝒎𝒐𝒏𝒅𝒔 𝒔𝒕𝒂𝒚 𝒇𝒐𝒓𝒆𝒗𝒆𝒓"}$$
+<p align="center"> $${\color{#8695d1}"𝑫𝒊𝒂𝒎𝒐𝒏𝒅𝒔. 𝒔𝒕𝒂𝒚. 𝒇𝒐𝒓𝒆𝒗𝒆𝒓"}$$
  <p align="center"> 
   
    
