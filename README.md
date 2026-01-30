@@ -1,4 +1,7 @@
+<div align="center">
+
 #  ̶E̶̶m̶̶m̶̶a̶ ̶f̶̶r̶̶o̶̶s̶̶t̶ ᡣ𐭩 
+<p align="center">
 <img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=32cd32" alt="views count">
 
 <p align="center">
