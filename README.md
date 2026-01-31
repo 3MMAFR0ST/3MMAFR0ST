@@ -22,7 +22,7 @@
 　　. 
   <div align="center">
    
- [atabook](https://emmafrosts.atabook.org/) . . .     [pronounce](https://en.pronouns.page/@EMMAFROSTs). . . strawp still wip
+ [atabook](https://emmafrosts.atabook.org/) . . .     [pronounce](https://en.pronouns.page/@EMMAFROSTs). . . [strawpage](https://kissingdiamonds.straw.page/) 
 
 
  
