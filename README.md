@@ -2,7 +2,7 @@
 
 #  ̶E̶̶m̶̶m̶̶a̶ ̶f̶̶r̶̶o̶̶s̶̶t̶ ᡣ𐭩 
 <p align="center">
-<img width="140" src="https://komarev.com/ghpvc/?username=githubusernamehere&color=32cd32" alt="views count">
+<img width="140" src="https://komarev.com/ghpvc/?username=3MMAFR0ST&color=32cd32" alt="views count">
 
 <p align="center">
   $\color{#8695d1}{\textsf{"𝑫𝒊𝒂𝒎𝒐𝒏𝒅𝒔 𝒔𝒕𝒂𝒚 𝒇𝒐𝒓𝒆𝒗𝒆𝒓"}}$
